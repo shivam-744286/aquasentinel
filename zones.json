@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Restricted Bay A",
+    "lat": 12.96,
+    "lon": 77.59,
+    "radius_m": 800,
+    "severity": 1.0
+  },
+  {
+    "name": "Harbor Entrance",
+    "lat": 12.94,
+    "lon": 77.61,
+    "radius_m": 1200,
+    "severity": 0.8
+  },
+  {
+    "name": "Shipping Lane",
+    "lat": 12.98,
+    "lon": 77.62,
+    "radius_m": 2000,
+    "severity": 0.6
+  }
+]
